@@ -8,6 +8,29 @@
 
 # Community Code of Conduct Template
 
+This document contains a base Code of Conduct template that communities can adopt for their own meetups, Python User Groups, or conferences.
+
+Feel free to make a copy of this document and alter it where necessary for specific needs.
+
+
+## Table of Contents
+
+1. [Purpose](#purpose)
+2. [Scope](#scope)
+3. [Our Standards](#our-standards)
+    - [Anti-Harassment Policy](#anti-harassment-policy)
+    - [Ableism](#ableism)
+    - [Sexism](#sexism)
+    - [Expected Behaviour](#expected-behaviour)
+4. [Reporting Guidelines](#reporting-guidelines)
+    - [Anonymous Reports](#anonymous-reports)
+    - [Emergency Services](#emergency-services)
+5. [Enforcement](#enforcement)
+
+---
+
+<samp>
+
 ## Purpose
 
 Our community is committed to the provision of a welcoming and harassment-free experience for all participants, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or any other personal characteristic. Harassment in any form will not be tolerated. The use of sexual language and imagery is deemed inappropriate in any context associated with this event or community. Individuals found violating these guidelines may be subject to sanctions or expulsion from the event or community, at the sole discretion of the organising body, without entitlement to a refund.
@@ -97,3 +120,4 @@ Individuals asked to cease any harassing behavior are expected to comply immedia
 These standards apply at all event venues, related social activities, and in all interactions, including online and on social media.
 
 
+</samp>
