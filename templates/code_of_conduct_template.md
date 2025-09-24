@@ -37,7 +37,7 @@ Harassment includes, but is not limited to:
 
 Ableist language, including but not limited to terms such as “crazy,” “dumb,” “insane,” or “lame,” should be avoided as it marginalises those with different physical or mental abilities. More precise and respectful language is encouraged.
 
-[!NOTE]
+> [!NOTE]
 > To find out more about ableism and replacement terms please read [this guide](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html).
 >
 
@@ -62,7 +62,7 @@ Examples of behavior that contribute to a positive environment include:
 
 If you or someone else feels unsafe or unwelcome, please notify event organisers or community leaders at the earliest opportunity. Reports can be made personally or anonymously using [`INCLUDE REPORT LINK`], and all concerns will be addressed discreetly and respectfully. Organisers and designated responders will be clearly identified and trained in receiving reports.
 
-[!NOTE]
+> [!NOTE]
 > It is a good idea to have someone external to the organisers for code of conduct report enforcement as well.
 >
 > See Example Below...
@@ -84,7 +84,7 @@ You should contact local emergency services (police, ambulance, or fire) without
   - You witness or are informed of sexual assault or any form of violence
   - Situations involving loss of consciousness, severe injury, or medical distress that cannot be safely managed by onsite staff
 
-[!NOTE]
+> [!NOTE]
 > It is a good idea to train organisers in first-aid and have established emergency procedures.
 >
 
