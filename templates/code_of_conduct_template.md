@@ -45,7 +45,7 @@ Ableist language, including but not limited to terms such as “crazy,” “dum
 
 Any form of sexism or derogatory language is forbidden. Please refrain from using gendered terms—for example, addressing mixed-gender groups as “guys” or “dudes”—as these can perpetuate exclusion. Gender-neutral language should be used at all times.
 
-[!NOTE]
+> [!NOTE]
 > For more information please familiarise yourself with the [Geek Feminism wiki guide](http://geekfeminism.wikia.com/wiki/Nonsexist_language).
 >
 
